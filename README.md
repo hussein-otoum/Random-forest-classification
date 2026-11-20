@@ -84,3 +84,13 @@ Data Science and Artificial Intelligence Student
 Conclusion
 
 This project provides a comparative study of six optimization algorithms for Random Forest hyperparameter tuning, highlighting their impact on classification performance and model evaluation metrics.
+
+Kaggle Notebook
+
+The complete project is available on Kaggle:
+
+View and Run Random Forest Classification Notebook
+
+Project Repository
+
+This GitHub repository contains the complete source code and project documentation.
